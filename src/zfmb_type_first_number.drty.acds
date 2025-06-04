@@ -1,0 +1,4 @@
+@EndUserText.label: 'FMB First Number'
+@EndUserText.heading: 'FMB First Number'
+@EndUserText.quickInfo: 'FMB First Number'
+define type ZFMB_TYPE_FIRST_NUMBER: zfmb_type_number

@@ -1,0 +1,2 @@
+@EndUserText.label: 'FMB Number'
+define type ZFMB_TYPE_NUMBER: abap.int4

@@ -1,0 +1,4 @@
+@EndUserText.label: 'FMB Result'
+@EndUserText.heading: 'FMB Result'
+@EndUserText.quickInfo: 'FMB Result'
+define type ZFMB_TYPE_RESULT: zfmb_type_number
